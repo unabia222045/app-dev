@@ -4,7 +4,7 @@ My first repository
 # My Favorite Series
 
 **Demon Slayer**
-*It is about a young boy who goes in the battlefield to exerminate demons and turn his sister back into human*
+*A young boy named Tanjiro Kamado goes into the battlefield to exterminate demons and find a solution to turn his sister back into human. In his mission, he met different types of people who have the same goal as him, to kill evil demons and made friends.*
 
 **A3!**
-*A theater play company who went bankcrupt but tried hard to rise again and have its troupea reborn*
+*A theater play company named Mankai Company went bankcrupt and is in danger of being demolished. In order to save it from its fate, Izumi Tachibana took over the company that is originally from her father and became the director. She rebuilt its four main troupe: Spring, Summer, Autumn and Winter and tried their best to rise up again to the limelight with its reborn troupe and new members.*
